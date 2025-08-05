@@ -4,7 +4,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/balpreet-kaur-14894b251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Balpreet%20Kaur-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:preettt72@gmail.com"><img src="https://img.shields.io/badge/Email-preettt72@gmail.com-orange?style=for-the-badge&logo=gmail" alt="Email"></a>
   <a href="https://github.com/prt72"><img src="https://img.shields.io/badge/GitHub-prt72-black?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
 
@@ -34,6 +33,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=prt72&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=prt72&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prt72&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=prt72&theme=radical&no-frame=false&no-bg=true&margin-w=4)
