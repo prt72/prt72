@@ -4,7 +4,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/balpreet-kaur-14894b251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Balpreet%20Kaur-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://github.com/prt72"><img src="https://img.shields.io/badge/GitHub-prt72-black?style=for-the-badge&logo=github" alt="GitHub"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
