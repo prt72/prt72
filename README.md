@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balpreet</h1>
-<h3 align="center">A passionate Computer Science (Data Science) student from Malaysia</h3>
+<h3 align="center">A Computer Science student. majoring in Data Science but sometimes I build stuff</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
