@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balpreet</h1>
-<h3 align="center">A Computer Science student. majoring in Data Science but sometimes I build stuff</h3>
+<h3 align="center">A Computer Science student. majoring in Data Science. Sometimes I feel like building fun projects and websites!</h3>
 
 <h3 align="left">Languages and Tools I've used:</h3>
 <p align="left"> 
